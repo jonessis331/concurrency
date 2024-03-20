@@ -21,7 +21,7 @@
 </ul>
 
 <h2>Setup</h2>
-<p>No complex setup is required to use this channel library. It is designed to work with standard C libraries and the POSIX thread library, ensuring compatibility across a wide array of C environments.</p>
+<p>Please consolidate all files from the 'config', 'src', and 'tests' directories into a unified directory structure to ensure proper integration with the channel library. It is designed to work with standard C libraries and the POSIX thread library, ensuring compatibility across a wide array of C environments.</p>
 
 <h2>Using the Library</h2>
 <p>The channel API provides a suite of functions for channel operations, detailed in <code>channel.c</code> and <code>channel.h</code>. Here are the primary functions available:</p>
